@@ -1,3 +1,5 @@
+'use strict';
+
 function palindrome(str) {
   const reversed = str
     .split('')
