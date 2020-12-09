@@ -1,3 +1,5 @@
+'use strict';
+
 function maxChar(str) {
   const charMap = {};
   let max = 0;

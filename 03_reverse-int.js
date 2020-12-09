@@ -1,3 +1,5 @@
+'use strict';
+
 function reverseInt(n) {
   const reversed = n
     .toString()

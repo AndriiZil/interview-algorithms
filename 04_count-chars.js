@@ -1,3 +1,5 @@
+'use strict';
+
 const string = 'Hello There!';
 const chars = {};
 
